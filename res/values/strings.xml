@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GCMHelloWorld</string>
+    <string name="control_light">GCMControlLight</string>
+    <string name="prefs_file">SettingsFile</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="intensity">Intensity</string>
+    <string name="send">Send</string>
+    <string name="color">Color</string>
+    <string name="data">data</string>
+    <string name="regIds">registration_ids</string>
+</resources>
