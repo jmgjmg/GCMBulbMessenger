@@ -2,7 +2,7 @@ GCMBulbMessenger
 ================
 
 Client to remotely control a Yeelight Blu light bulb controlled with GCMHelloWorld (https://github.com/jmgjmg/GCMHelloWorld)
-It includes one activities:
+It includes one activity:
 
 - ControlLightActivity: used to define the light configuration (color and intensity) and to generate push notifications (GCM) accordingly. 
 
